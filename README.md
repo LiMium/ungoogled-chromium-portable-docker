@@ -1,3 +1,10 @@
+### Deprecated
+This project's scripts are now merged with
+[upstream](https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/issues/18).
+
+Hence, it's not recommended to use this project anymore.
+
+
 Docker scripts to build the portable image of [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium).
 
 ### Pre-requisites
