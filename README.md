@@ -4,6 +4,7 @@ This project's scripts are now merged with
 
 Hence, it's not recommended to use this project anymore.
 
+------------------
 
 Docker scripts to build the portable image of [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium).
 
